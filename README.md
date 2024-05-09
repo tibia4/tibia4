@@ -1,16 +1,16 @@
-### Hi there 👋
+### boas vindas ao meu perfil 👋
 
-<!--
-**tibia4/tibia4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<meu nome e Getulio
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- estou estudando no Alura ;
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organizaçao e compartilhamento do meu projetos desenvolvidos
+-  
+-  ### voce pode entra em contato comigo📧
+-  
+-  1249343318sp@al.educacao.sp.gov.br
+-  @Martinslll
+-  
+-  
+- 
 -->
